@@ -15,7 +15,7 @@
 - Sketch colorization (SCFT) [[Link]](https://github.com/Snailpong/reference_based_sketch_image_colorization)
 - Style transfer (CycleGAN, CartoonGAN, AnimeGAN) [[Link]](https://github.com/Snailpong/style_transfer_implementation)
 - Semantic segmentation (FCN, DeconvNet, PSPNet) [[Link]](https://github.com/Snailpong/semantic_segmentation_implementation)
-- Super-resolution q-space Deep learning [[Link]](https://github.com/Snailpong/dwi_angular)
+- Super-resolved q-space Deep learning [[Link]](https://github.com/Snailpong/dwi_angular)
 
 ### AI prototype utils with idea
 - Animation (anime) asset maker [[Link]](https://github.com/Snailpong/anime_asset_maker)
